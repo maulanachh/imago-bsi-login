@@ -1,0 +1,1 @@
+<button wire:click="$dispatch(&#039;openDeleteModal&#039;, JSON.parse(&#039;{\u0022rowId\u0022:3,\u0022kelasName\u0022:\u0022Suite B\u0022}&#039;))" class="btn btn-ghost-danger waves-effect waves-light"><i class="bx bx-trash-alt"></i> delete</button>

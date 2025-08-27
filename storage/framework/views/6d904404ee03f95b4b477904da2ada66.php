@@ -1,0 +1,1 @@
+<button wire:click="$dispatch(&#039;openDeleteModal&#039;, JSON.parse(&#039;{\u0022rowId\u0022:6,\u0022kamarName\u0022:\u0022202\u0022}&#039;))" class="btn btn-ghost-danger waves-effect waves-light"><i class="bx bx-trash-alt"></i> delete</button><?php /**PATH /var/www/html/jkhomestay/storage/framework/views/75bb515c8a81c8d7678e264782efbbb8.blade.php ENDPATH**/ ?>

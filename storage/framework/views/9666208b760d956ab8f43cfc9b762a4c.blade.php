@@ -1,0 +1,1 @@
+<button wire:click="$dispatch(&#039;cetak_invoice&#039;, JSON.parse(&#039;{\u0022rowId\u0022:6}&#039;))" class="btn btn-primary waves-effect waves-light"><i class="bx bx-edit-alt"></i> cetak invoice</button>

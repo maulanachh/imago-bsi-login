@@ -1,0 +1,815 @@
+<div>
+
+    <!-- Slider
+  ============================================= -->
+    <div id="slider" class="slider-element revslider-wrap min-vh-0">
+        <div class="slider-inner">
+            <rs-module-wrap id="rev_slider_shop_wrapper" data-alias="canvas-shop" data-source="gallery"
+                class="p-0 bg-color">
+                <rs-module id="rev_slider_shop" class="rs-respect-topbar" data-version="6.5.8">
+                    <rs-slides>
+                        <!-- Slider-1 -->
+                        <rs-slide style="position: absolute;" data-key="slider-1" data-title="Slide" data-in="x:(100%);"
+                            data-out="x:(-60%);">
+                            <img src="assets/cprofile/demos/skincare/images/slider/dummy.png" title="1.jpg"
+                                width="1920" height="1080" class="rev-slidebg tp-rs-img rs-lazyload"
+                                data-lazyload="assets/cprofile/demos/skincare/images/slider/1.jpg" data-parallax="off"
+                                data-no-retina>
+                            <rs-bgvideo data-video="w:100%;h:100%;nse:false;l:true;ptimer:false;vfc:true;"
+                                data-mp4="assets/cprofile/demos/skincare/images/slider/1.mp4"></rs-bgvideo>
+                            <rs-zone id="rrzm_95" class="rev_row_zone_middle" style="z-index: 17;">
+
+                                <rs-row id="slider-shop-slide-1-layer-17" data-type="row" data-xy="xo:50px;yo:50px;"
+                                    data-basealign="slide" data-rsp_bd="off"
+                                    data-margin="r:0,200,140,40;l:250,200,140,40;" data-frame_0="o:1;"
+                                    data-frame_999="o:0;st:w;sR:6700;sA:7000;" style="z-index:1;">
+                                    <rs-column id="slider-shop-slide-1-layer-18" data-type="column"
+                                        data-xy="xo:50px;yo:50px;" data-rsp_bd="off" data-column="w:100%;a:middle;"
+                                        data-frame_0="o:1;" data-frame_999="o:0;st:w;sR:6700;sA:7000;"
+                                        style="z-index:2;width:100%;">
+                                        <rs-layer id="slider-shop-slide-1-layer-20" data-type="text" data-rsp_ch="on"
+                                            data-text="w:normal;s:30;l:30;" data-dim="minh:0px,none,none,none;"
+                                            data-blendmode="soft-light" data-disp="inline-block"
+                                            data-margin="l:10,10,10,6;" data-frame_0="x:-175%;o:1;"
+                                            data-frame_0_mask="u:t;x:100%;" data-frame_1="e:power3.out;sp:1000;"
+                                            data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6000;"
+                                            style="z-index:3;font-family:var(--cnvs-body-font);text-transform:uppercase;display:inline-block;">
+                                        </rs-layer>
+
+                                        <rs-layer id="slider-shop-slide-1-layer-19" data-type="text"
+                                            data-color="rgba(255, 255, 255, 0.5)" data-rsp_ch="on" data-xy="x:c;y:m;"
+                                            data-text="w:normal;s:13;l:20;" data-dim="minh:0px,none,none,none;"
+                                            data-blendmode="soft-light" data-disp="inline-block" data-margin="l:5;"
+                                            data-frame_0="x:-175%;o:1;" data-frame_0_mask="u:t;x:100%;"
+                                            data-frame_1="e:power3.out;sp:1000;" data-frame_1_mask="u:t;"
+                                            data-frame_999="o:0;st:w;sR:6000;"
+                                            style="z-index:4;font-family:var(--cnvs-body-font);text-transform:uppercase;display:inline-block;">/
+
+                                        </rs-layer>
+
+                                        <rs-layer id="slider-shop-slide-1-layer-2" class="fst-italic text-capitalize"
+                                            data-type="text" data-rsp_ch="on" data-xy="x:c;y:m;"
+                                            data-text="w:normal;s:200,100,75,80;l:180,90,68,70;ls:-10px,-8px,-6px,-3px;fw:800;"
+                                            data-dim="h:400px,200px,151px,160px;minh:0px,none,none,none;"
+                                            data-margin="t:0,25,19,12;b:30,25,19,30;" data-padding="t:35,0,0,0;"
+                                            data-frame_0="x:-175%;o:1;" data-frame_0_mask="u:t;x:100%;"
+                                            data-frame_1="e:power3.out;sp:1000;" data-frame_1_mask="u:t;"
+                                            data-frame_999="o:0;st:w;sR:6000;"
+                                            style="z-index:5;font-family: var(--cnvs-primary-font); text-shadow: 1px 1px 3px rgba(var(--cnvs-themecolor-rgb), 0.2);">shining<br>Moisture
+                                        </rs-layer>
+
+                                        <rs-layer id="slider-shop-slide-1-layer-29" data-type="text" data-rsp_ch="on"
+                                            data-xy="x:c;y:m;" data-text="w:normal;s:13;l:30;ls:1px;"
+                                            data-dim="minh:0px,none,none,none;" data-disp="inline-block"
+                                            data-margin="l:10,10,10,6;" data-frame_0="x:-175%;o:1;"
+                                            data-frame_0_mask="u:t;x:100%;" data-frame_1="e:power3.out;sp:1000;"
+                                            data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6000;"
+                                            style="z-index:7;font-family:var(--cnvs-body-font);text-transform:uppercase;display:inline-block;">Sirum
+                                        </rs-layer>
+
+                                        <rs-layer id="slider-shop-slide-1-layer-30" data-type="text" data-rsp_ch="on"
+                                            data-xy="x:c;y:m;" data-text="w:normal;s:13;l:30;ls:1px;"
+                                            data-dim="minh:0px,none,none,none;" data-disp="inline-block"
+                                            data-margin="r:5;l:5;" data-frame_0="x:-175%;o:1;"
+                                            data-frame_0_mask="u:t;x:100%;" data-frame_1="e:power3.out;sp:1000;"
+                                            data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6000;"
+                                            style="z-index:8;font-family:var(--cnvs-body-font);text-transform:uppercase;display:inline-block;">/
+                                        </rs-layer>
+
+                                        <rs-layer id="slider-shop-slide-1-layer-31" data-type="text"
+                                            data-color="rgba(255, 255, 255, 0.5)" data-rsp_ch="on" data-xy="x:c;y:m;"
+                                            data-text="w:normal;s:13;l:30;ls:1px;" data-dim="minh:0px,none,none,none;"
+                                            data-disp="inline-block" data-margin="r:0,0,0,100;"
+                                            data-frame_0="x:-175%;o:1;" data-frame_0_mask="u:t;x:100%;"
+                                            data-frame_1="e:power3.out;sp:1000;" data-frame_1_mask="u:t;"
+                                            data-frame_999="o:0;st:w;sR:6000;"
+                                            style="z-index:9;font-family:var(--cnvs-body-font);text-transform:uppercase;display:inline-block;">1.7fl
+                                            oz - 50ml
+                                        </rs-layer>
+
+                                        <rs-layer id="slider-shop-slide-1-layer-32" data-type="text"
+                                            data-color="rgba(255, 255, 255, 0.5)" data-rsp_ch="on"
+                                            data-text="w:normal;s:13;l:30;ls:1px;" data-dim="minh:0px,none,none,none;"
+                                            data-disp="inline-block" data-margin="l:80,50,80,6;"
+                                            data-frame_0="x:-175%;o:1;" data-frame_0_mask="u:t;x:100%;"
+                                            data-frame_1="e:power3.out;sp:1000;" data-frame_1_mask="u:t;"
+                                            data-frame_999="o:0;st:w;sR:6000;"
+                                            style="z-index:10;font-family:var(--cnvs-body-font);text-transform:uppercase;display:inline-block;">Company
+                                        </rs-layer>
+
+                                        <rs-layer id="slider-shop-slide-1-layer-33" data-type="text" data-rsp_ch="on"
+                                            data-xy="x:c;y:m;" data-text="w:normal;s:13;l:30;ls:1px;"
+                                            data-dim="minh:0px,none,none,none;" data-disp="inline-block"
+                                            data-margin="l:5;" data-frame_0="x:-175%;o:1;"
+                                            data-frame_0_mask="u:t;x:100%;" data-frame_1="e:power3.out;sp:1000;"
+                                            data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6000;"
+                                            style="z-index:11;font-family:var(--cnvs-body-font);text-transform:uppercase;display:inline-block;">Kiehl's
+                                        </rs-layer>
+                                    </rs-column>
+                                </rs-row>
+                            </rs-zone>
+                        </rs-slide>
+
+                        <!-- Slider-2 -->
+                        <rs-slide style="position: absolute;" data-key="slider-2" data-title="Slide"
+                            data-in="x:(100%);" data-out="x:(-60%);">
+                            <img src="assets/cprofile/demos/skincare/images/slider/dummy.png" title="2.jpg"
+                                width="1920" height="1080" class="rev-slidebg tp-rs-img rs-lazyload"
+                                data-lazyload="assets/cprofile/demos/skincare/images/slider/2.jpg" data-parallax="off"
+                                data-panzoom="d:9000ms;ss:100%;se:120%;os:0px/0;oe:0px/0px;" data-no-retina>
+                            <rs-zone id="rrzm_96" class="rev_row_zone_middle" style="z-index: 17;">
+
+                                <rs-row id="slider-shop-slide-2-layer-17" data-type="row" data-xy="xo:50px;yo:50px;"
+                                    data-basealign="slide" data-rsp_bd="off"
+                                    data-margin="r:0,200,140,40;l:250,200,140,40;" data-frame_0="o:1;"
+                                    data-frame_999="o:0;st:w;sA:7000;" style="z-index:1;">
+                                    <rs-column id="slider-shop-slide-2-layer-18" data-type="column"
+                                        data-xy="xo:50px;yo:50px;" data-rsp_bd="off" data-column="w:100%;a:middle;"
+                                        data-frame_0="o:1;" data-frame_999="o:0;st:w;sA:7000;"
+                                        style="z-index:2;width:100%;">
+                                        <rs-layer id="slider-shop-slide-2-layer-20" data-type="text" data-rsp_ch="on"
+                                            data-text="w:normal;s:30;l:30;" data-dim="minh:0px,none,none,none;"
+                                            data-blendmode="soft-light" data-disp="inline-block"
+                                            data-margin="l:10,10,10,6;" data-frame_0="x:-175%;o:1;"
+                                            data-frame_0_mask="u:t;x:100%;" data-frame_1="e:power3.out;sp:1000;"
+                                            data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6000;"
+                                            style="z-index:3;font-family:var(--cnvs-body-font);text-transform:uppercase;display:inline-block;">
+                                        </rs-layer>
+
+                                        <rs-layer id="slider-shop-slide-2-layer-19" data-type="text"
+                                            data-color="rgba(255, 255, 255, 0.5)" data-rsp_ch="on" data-xy="x:c;y:m;"
+                                            data-text="w:normal;s:13;l:20;" data-dim="minh:0px,none,none,none;"
+                                            data-blendmode="soft-light" data-disp="inline-block" data-margin="l:5;"
+                                            data-frame_0="x:-175%;o:1;" data-frame_0_mask="u:t;x:100%;"
+                                            data-frame_1="e:power3.out;sp:1000;" data-frame_1_mask="u:t;"
+                                            data-frame_999="o:0;st:w;sR:6000;"
+                                            style="z-index:4;font-family:var(--cnvs-body-font);text-transform:uppercase;display:inline-block;">/
+
+                                        </rs-layer>
+
+                                        <rs-layer id="slider-shop-slide-2-layer-2" class="fst-italic text-capitalize"
+                                            data-type="text" data-rsp_ch="on" data-xy="x:c;y:m;"
+                                            data-text="w:normal;s:180,100,75,80;l:180,90,68,70;ls:-10px,-8px,-6px,-3px;fw:800;"
+                                            data-dim="h:400px,200px,151px,160px;minh:0px,none,none,none;"
+                                            data-margin="t:30,25,19,12;b:30,25,19,30;" data-frame_0="x:-175%;o:1;"
+                                            data-frame_0_mask="u:t;x:100%;" data-frame_1="e:power3.out;sp:1000;"
+                                            data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;"
+                                            style="z-index:5;font-family: var(--cnvs-primary-font);">Bamboo<br>Fibres
+                                        </rs-layer>
+
+                                        <rs-layer id="slider-shop-slide-2-layer-29" data-type="text" data-rsp_ch="on"
+                                            data-xy="x:c;y:m;" data-text="w:normal;s:13;l:30;ls:1px;"
+                                            data-dim="minh:0px,none,none,none;" data-disp="inline-block"
+                                            data-margin="l:10,10,10,6;" data-frame_0="x:-175%;o:1;"
+                                            data-frame_0_mask="u:t;x:100%;" data-frame_1="e:power3.out;sp:1000;"
+                                            data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6000;"
+                                            style="z-index:7;font-family:var(--cnvs-body-font);text-transform:uppercase;display:inline-block;">shampoo
+                                        </rs-layer>
+
+                                        <rs-layer id="slider-shop-slide-2-layer-30" data-type="text" data-rsp_ch="on"
+                                            data-xy="x:c;y:m;" data-text="w:normal;s:13;l:30;ls:1px;"
+                                            data-dim="minh:0px,none,none,none;" data-disp="inline-block"
+                                            data-margin="r:5;l:5;" data-frame_999="o:0;st:w;"
+                                            style="z-index:8;font-family:var(--cnvs-body-font);text-transform:uppercase;display:inline-block;">/
+                                        </rs-layer>
+
+                                        <rs-layer id="slider-shop-slide-2-layer-31" data-type="text"
+                                            data-color="rgba(255, 255, 255, 0.5)" data-rsp_ch="on" data-xy="x:c;y:m;"
+                                            data-text="w:normal;s:13;l:30;ls:1px;" data-dim="minh:0px,none,none,none;"
+                                            data-disp="inline-block" data-margin="r:0,0,0,100;"
+                                            data-frame_0="x:-175%;o:1;" data-frame_0_mask="u:t;x:100%;"
+                                            data-frame_1="e:power3.out;sp:1000;" data-frame_1_mask="u:t;"
+                                            data-frame_999="o:0;st:w;sR:6000;"
+                                            style="z-index:9;font-family:var(--cnvs-body-font);text-transform:uppercase;display:inline-block;">Ayurvedic
+                                        </rs-layer>
+
+                                        <rs-layer id="slider-shop-slide-2-layer-32" data-type="text"
+                                            data-color="rgba(255, 255, 255, 0.5)" data-rsp_ch="on"
+                                            data-text="w:normal;s:13;l:30;ls:1px;" data-dim="minh:0px,none,none,none;"
+                                            data-disp="inline-block" data-margin="l:80,50,80,6;"
+                                            data-frame_0="x:-175%;o:1;" data-frame_0_mask="u:t;x:100%;"
+                                            data-frame_1="e:power3.out;sp:1000;" data-frame_1_mask="u:t;"
+                                            data-frame_999="o:0;st:w;sR:6000;"
+                                            style="z-index:10;font-family:var(--cnvs-body-font);text-transform:uppercase;display:inline-block;">industry
+                                        </rs-layer>
+
+                                        <rs-layer id="slider-shop-slide-2-layer-33" data-type="text" data-rsp_ch="on"
+                                            data-xy="x:c;y:m;" data-text="w:normal;s:13;l:30;ls:1px;"
+                                            data-dim="minh:0px,none,none,none;" data-disp="inline-block"
+                                            data-margin="l:5;" data-frame_0="x:-175%;o:1;"
+                                            data-frame_0_mask="u:t;x:100%;" data-frame_1="e:power3.out;sp:1000;"
+                                            data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6000;"
+                                            style="z-index:11;font-family:var(--cnvs-body-font);text-transform:uppercase;display:inline-block;">Mani
+                                            Moisture
+                                        </rs-layer>
+                                    </rs-column>
+                                </rs-row>
+                            </rs-zone>
+                        </rs-slide>
+
+                        <!-- Slider-3 -->
+                        <rs-slide style="position: absolute;" data-key="slider-3" data-title="Slide"
+                            data-in="x:(100%);" data-out="x:(-60%);">
+                            <img src="assets/cprofile/demos/skincare/images/slider/dummy.png" title="3.jpg"
+                                width="1920" height="1080" class="rev-slidebg tp-rs-img rs-lazyload"
+                                data-lazyload="assets/cprofile/demos/skincare/images/slider/3.jpg" data-parallax="off"
+                                data-panzoom="d:9000ms;ss:100%;se:120%;os:0px/0;oe:0px/0px;" data-no-retina>
+                            <rs-zone id="rrzm_97" class="rev_row_zone_middle" style="z-index: 17;">
+
+                                <rs-row id="slider-shop-slide-3-layer-17" data-type="row" data-xy="xo:50px;yo:50px;"
+                                    data-basealign="slide" data-rsp_bd="off"
+                                    data-margin="r:0,200,140,40;l:250,200,140,40;" data-frame_0="o:1;"
+                                    data-frame_999="o:0;st:w;sA:7000;" style="z-index:1;">
+                                    <rs-column id="slider-shop-slide-3-layer-18" data-type="column"
+                                        data-xy="xo:50px;yo:50px;" data-rsp_bd="off" data-column="w:100%;a:middle;"
+                                        data-frame_0="o:1;" data-frame_999="o:0;st:w;sA:7000;"
+                                        style="z-index:2;width:100%;">
+                                        <rs-layer id="slider-shop-slide-3-layer-20" data-type="text" data-rsp_ch="on"
+                                            data-text="w:normal;s:30;l:30;" data-dim="minh:0px,none,none,none;"
+                                            data-blendmode="soft-light" data-disp="inline-block"
+                                            data-margin="l:10,10,10,6;" data-frame_0="x:-175%;o:1;"
+                                            data-frame_0_mask="u:t;x:100%;" data-frame_1="e:power3.out;sp:1000;"
+                                            data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6000;"
+                                            style="z-index:3;font-family:var(--cnvs-body-font);text-transform:uppercase;display:inline-block;">
+                                        </rs-layer>
+
+                                        <rs-layer id="slider-shop-slide-3-layer-19" data-type="text"
+                                            data-color="rgba(255, 255, 255, 0.5)" data-rsp_ch="on" data-xy="x:c;y:m;"
+                                            data-text="w:normal;s:13;l:20;" data-dim="minh:0px,none,none,none;"
+                                            data-blendmode="soft-light" data-disp="inline-block" data-margin="l:5;"
+                                            data-frame_0="x:-175%;o:1;" data-frame_0_mask="u:t;x:100%;"
+                                            data-frame_1="e:power3.out;sp:1000;" data-frame_1_mask="u:t;"
+                                            data-frame_999="o:0;st:w;sR:6000;"
+                                            style="z-index:4;font-family:var(--cnvs-body-font);text-transform:uppercase;display:inline-block;">/
+
+                                        </rs-layer>
+
+                                        <rs-layer id="slider-shop-slide-3-layer-2" class="fst-italic text-capitalize"
+                                            data-type="text" data-rsp_ch="on" data-xy="x:c;y:m;"
+                                            data-text="w:normal;s:180,100,75,80;l:180,90,68,70;ls:-10px,-8px,-6px,-3px;fw:800;"
+                                            data-dim="h:400px,200px,151px,160px;minh:0px,none,none,none;"
+                                            data-margin="t:30,25,19,12;b:30,25,19,30;" data-frame_0="x:-175%;o:1;"
+                                            data-frame_0_mask="u:t;x:100%;" data-frame_1="e:power3.out;sp:1000;"
+                                            data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;"
+                                            style="z-index:5;font-family: var(--cnvs-primary-font);">Facial<br>Serum
+                                        </rs-layer>
+
+                                        <rs-layer id="slider-shop-slide-3-layer-29" data-type="text" data-rsp_ch="on"
+                                            data-xy="x:c;y:m;" data-text="w:normal;s:13;l:30;ls:1px;"
+                                            data-dim="minh:0px,none,none,none;" data-disp="inline-block"
+                                            data-margin="l:10,10,10,6;" data-frame_0="x:-175%;o:1;"
+                                            data-frame_0_mask="u:t;x:100%;" data-frame_1="e:power3.out;sp:1000;"
+                                            data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6000;"
+                                            style="z-index:7;font-family:var(--cnvs-body-font);text-transform:uppercase;display:inline-block;">Facial
+                                            Cream
+                                        </rs-layer>
+
+                                        <rs-layer id="slider-shop-slide-3-layer-30" data-type="text" data-rsp_ch="on"
+                                            data-xy="x:c;y:m;" data-text="w:normal;s:13;l:30;ls:1px;"
+                                            data-dim="minh:0px,none,none,none;" data-disp="inline-block"
+                                            data-margin="r:5;l:5;" data-frame_999="o:0;st:w;"
+                                            style="z-index:8;font-family:var(--cnvs-body-font);text-transform:uppercase;display:inline-block;">/
+                                        </rs-layer>
+
+                                        <rs-layer id="slider-shop-slide-3-layer-31" data-type="text"
+                                            data-color="rgba(255, 255, 255, 0.5)" data-rsp_ch="on" data-xy="x:c;y:m;"
+                                            data-text="w:normal;s:13;l:30;ls:1px;" data-dim="minh:0px,none,none,none;"
+                                            data-disp="inline-block" data-margin="r:0,0,0,100;"
+                                            data-frame_0="x:-175%;o:1;" data-frame_0_mask="u:t;x:100%;"
+                                            data-frame_1="e:power3.out;sp:1000;" data-frame_1_mask="u:t;"
+                                            data-frame_999="o:0;st:w;sR:6000;"
+                                            style="z-index:9;font-family:var(--cnvs-body-font);text-transform:uppercase;display:inline-block;">Anti-Aging
+                                        </rs-layer>
+
+                                        <rs-layer id="slider-shop-slide-3-layer-32" data-type="text"
+                                            data-color="rgba(255, 255, 255, 0.5)" data-rsp_ch="on"
+                                            data-text="w:normal;s:13;l:30;ls:1px;" data-dim="minh:0px,none,none,none;"
+                                            data-disp="inline-block" data-margin="l:80,50,80,6;"
+                                            data-frame_0="x:-175%;o:1;" data-frame_0_mask="u:t;x:100%;"
+                                            data-frame_1="e:power3.out;sp:1000;" data-frame_1_mask="u:t;"
+                                            data-frame_999="o:0;st:w;sR:6000;"
+                                            style="z-index:10;font-family:var(--cnvs-body-font);text-transform:uppercase;display:inline-block;">industry
+                                        </rs-layer>
+
+                                        <rs-layer id="slider-shop-slide-3-layer-33" data-type="text" data-rsp_ch="on"
+                                            data-xy="x:c;y:m;" data-text="w:normal;s:13;l:30;ls:1px;"
+                                            data-dim="minh:0px,none,none,none;" data-disp="inline-block"
+                                            data-margin="l:5;" data-frame_0="x:-175%;o:1;"
+                                            data-frame_0_mask="u:t;x:100%;" data-frame_1="e:power3.out;sp:1000;"
+                                            data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6000;"
+                                            style="z-index:11;font-family:var(--cnvs-body-font);text-transform:uppercase;display:inline-block;">Annmarie
+                                        </rs-layer>
+                                    </rs-column>
+                                </rs-row>
+                            </rs-zone>
+                        </rs-slide>
+
+                    </rs-slides>
+
+                    <rs-static-layers>
+
+                        <rs-group id="slider-shop-slide-33-layer-22" class="rs-layer-static" data-type="group"
+                            data-rsp_ch="on" data-xy="x:r;y:m;" data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
+                            data-dim="w:150px,120px,80px,49px;h:100%;" data-vbility="t,t,t,f"
+                            data-actions='o:click;a:jumptoslide;slide:next;||o:mouseenter;a:togglelayer;layer:slider-shop-slide-33-layer-5;ch:true;||o:mouseleave;a:togglelayer;layer:slider-shop-slide-33-layer-5;ch:true;'
+                            data-basealign="slide" data-onslides="s:1;" data-frame_0="x:175%;o:1;"
+                            data-frame_0_mask="u:t;x:-100%;" data-frame_1="e:power3.out;st:400;sp:400;sR:400;"
+                            data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6200;sA:7000;" style="z-index:19;">
+                            <rs-layer id="slider-shop-slide-33-layer-21" class="rs-layer-static nav-wrapper"
+                                data-type="shape" data-rsp_ch="on" data-xy="x:c;y:m;"
+                                data-text="w:normal;s:20,16,12,7;l:0,20,15,9;" data-dim="w:100%;h:100%;"
+                                data-onslides="s:1;"
+                                data-border="bos:solid;boc:rgba(255, 255, 255, 0.1);bow:0,0,0,1px;"
+                                data-frame_999="o:0;st:w;sR:6700;"
+                                data-frame_hover="boc:rgba(255,255,255,0.2);bos:solid;bow:0,0,0,1px;"
+                                style="z-index:17;cursor:pointer;">
+                            </rs-layer>
+
+                            <rs-layer id="slider-shop-slide-33-layer-23"
+                                class="rs-noevents rs-layer-static text-uppercase font-body z-9 rs-layer-nav nav-next"
+                                data-type="text" data-rsp_ch="on" data-xy="x:c;y:m;" data-text="w:700;s:15;ls:3px;"
+                                data-btrans="rZ:-90;" data-onslides="s:1;" data-frame_999="o:0;st:w;sR:6700;">next
+                            </rs-layer>
+                        </rs-group>
+
+                        <rs-group id="slider-shop-slide-33-layer-24" class="rs-layer-static" data-type="group"
+                            data-rsp_ch="on" data-xy="y:m;" data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
+                            data-dim="w:150px,120px,80px,49px;h:100%;" data-vbility="t,t,t,f"
+                            data-actions='o:click;a:jumptoslide;slide:previous;||o:mouseenter;a:togglelayer;layer:slider-shop-slide-33-layer-8;ch:true;||o:mouseleave;a:togglelayer;layer:slider-shop-slide-33-layer-8;ch:true;'
+                            data-basealign="slide" data-onslides="s:1;" data-frame_0="x:-175%;o:1;"
+                            data-frame_0_mask="u:t;x:100%;" data-frame_1="e:power3.out;st:400;sp:400;sR:400;"
+                            data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6200;sA:7000;" style="z-index:22;">
+                            <rs-layer id="slider-shop-slide-33-layer-25" class="rs-layer-static nav-wrapper"
+                                data-type="shape" data-rsp_ch="on" data-xy="x:c;y:m;"
+                                data-text="w:normal;s:20,16,12,7;l:0,20,15,9;" data-dim="w:100%;h:100%;"
+                                data-onslides="s:1;"
+                                data-border="bos:solid;boc:rgba(255, 255, 255, 0.1);bow:0,1,0,0px;"
+                                data-frame_999="o:0;st:w;sR:6700;"
+                                data-frame_hover="boc:rgba(255,255,255,0.2);bos:solid;bow:0,1px,0,0px;"
+                                style="z-index:20;cursor:pointer;">
+                            </rs-layer>
+
+                            <rs-layer id="slider-shop-slide-33-layer-26"
+                                class="rs-noevents rs-layer-static text-uppercase font-body z-9 rs-layer-nav nav-prev"
+                                data-type="text" data-rsp_ch="on" data-xy="x:c;y:m;" data-text="w:700;s:15;ls:3px;"
+                                data-btrans="rZ:-90;" data-onslides="s:1;" data-frame_999="o:0;st:w;sR:6700;">prev
+                            </rs-layer>
+                        </rs-group>
+
+                        <rs-layer id="slider-40-slide-33-layer-1" class="rs-layer-static" data-type="button"
+                            data-rsp_ch="on" data-xy="x:l,l,l,r;xo:50px,41px,31px,0;y:t,t,t,b;yo:50px,41px,31px,40px;"
+                            data-text="w:normal;s:20,16,12,20;l:25,20,15,20;a:left,left,left,center;"
+                            data-dim="w:auto,auto,auto,80px;h:auto,auto,auto,40px;" data-vbility="f,f,f,t"
+                            data-actions='o:click;a:jumptoslide;slide:next;' data-basealign="slide"
+                            data-onslides="s:1;" data-padding="t:0,0,0,10;r:0,0,0,10;b:0,0,0,10;l:0,0,0,10;"
+                            data-border="bos:none,none,none,solid;boc:rgba(255, 255, 255, 0.2);bow:0,0,0,1px;"
+                            data-frame_0="y:50,41,31,19;" data-frame_1="st:400;sp:400;sR:400;"
+                            data-frame_999="o:0;st:w;sR:6200;" style="z-index:28;font-family:'Roboto';"><i
+                                class="uil uil-angle-right-b"></i>
+                        </rs-layer>
+
+                        <rs-layer id="slider-40-slide-33-layer-3" class="rs-layer-static" data-type="button"
+                            data-rsp_ch="on"
+                            data-xy="x:l,l,l,r;xo:50px,41px,31px,80px;y:t,t,t,b;yo:50px,41px,31px,40px;"
+                            data-text="w:normal;s:20,16,12,20;l:25,20,15,20;a:left,left,left,center;"
+                            data-dim="w:auto,auto,auto,80px;h:auto,auto,auto,40px;" data-vbility="f,f,f,t"
+                            data-actions='o:click;a:jumptoslide;slide:previous;' data-basealign="slide"
+                            data-onslides="s:1;" data-padding="t:0,0,0,10;r:0,0,0,10;b:0,0,0,10;l:0,0,0,10;"
+                            data-frame_0="y:50,41,31,19;" data-frame_1="st:400;sp:400;sR:400;"
+                            data-frame_999="o:0;st:w;sR:6200;" style="z-index:27;font-family:'Roboto';"><i
+                                class="uil uil-angle-left-b"></i>
+                        </rs-layer>
+
+                        <rs-layer id="slider-shop-slide-33-layer-5" class="rs-layer-static" data-type="shape"
+                            data-rsp_ch="on" data-xy="x:r;y:m;" data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
+                            data-dim="w:150px,120px,80px,49px;h:100%;" data-vbility="t,t,t,f" data-basealign="slide"
+                            data-onslides="s:1;" data-border="boc:rgba(255, 255, 255, 0.1);bow:0,0,0,1px;"
+                            data-frame_1="bB:10px;st:a;" data-frame_999="o:0;st:a;sR:6700;"
+                            data-frame_hover="boc:rgba(255,255,255,0.2);bos:none;bow:0,0,0,1px;"
+                            style="z-index:16;cursor:pointer;">
+                        </rs-layer>
+
+                        <rs-layer id="slider-shop-slide-33-layer-8" class="rs-layer-static" data-type="shape"
+                            data-rsp_ch="on" data-xy="y:m;" data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
+                            data-dim="w:150px,120px,80px,49px;h:100%;" data-vbility="t,t,t,f" data-basealign="slide"
+                            data-onslides="s:1;" data-border="boc:rgba(255, 255, 255, 0.1);bow:0,0,0,1px;"
+                            data-frame_1="bB:10px;st:a;" data-frame_999="o:0;st:a;sR:6700;"
+                            data-frame_hover="boc:rgba(255,255,255,0.2);bos:none;bow:0,0,0,1px;"
+                            style="z-index:15;cursor:pointer;">
+                        </rs-layer>
+                    </rs-static-layers>
+                </rs-module>
+            </rs-module-wrap>
+        </div>
+    </div>
+
+    <!-- Below Slider
+  ============================================= -->
+    <div class="negative-service mw-md mx-auto">
+        <div class="negative-service-text color rounded shadow-sm"><strong>2131+ </strong> Satisfied Customer<div
+                class="d-inline-flex align-items-center text-warning mx-1">
+                <div class="bi-star-fill"></div>
+                <div class="bi-star-fill"></div>
+                <div class="bi-star-fill"></div>
+                <div class="bi-star-fill"></div>
+                <div class="bi-star-fill"></div>
+            </div> Reviews</div>
+    </div>
+
+    <!-- Content
+  ============================================= -->
+    <div id="content">
+        <div class="content-wrap py-0">
+
+            <!-- Section Service
+    ============================================= -->
+            <div class="section my-0 pb-0 pb-lg-5">
+                <div class="container mw-lg">
+                    <div class="row g-5">
+                        <div class="col-12 text-center mb-lg-5">
+                            <p class="color text-uppercase ls-4 small mb-4">Know More About Us</p>
+                            <h2 class="display-3 mb-5">Never too old for a makeover, Age flawlessly, Look like you
+                                desire, Your face is yours to make</h2>
+                            <a href="#"
+                                class="button button-border border-color m-0 color h-bg-color h-text-light">Learn
+                                More</a>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="overflow-hidden position-relative dark parallax"
+                                data-class="up-lg:min-h-700 down-lg:min-h-400">
+                                <div>
+                                    <img src="assets/cprofile/demos/skincare/images/section/1.jpg" alt="..."
+                                        class="parallax-bg">
+                                </div>
+                                <div class="position-absolute bottom-0 start-0 px-5 py-6">
+                                    <div>
+                                        <p class="text-uppercase ls-3 small mb-2 op-07">Shampoo</p>
+                                        <h3 class="display-6 fw-lighter mb-0">Shop our Favourites</h3>
+                                    </div>
+
+                                    <a href="demo-skincare-shop.html"
+                                        class="ps-2 text-white fs-1 bi-arrow-right-circle-fill h-translate-x-n-sm transform-ts"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="overflow-hidden position-relative dark parallax"
+                                data-class="up-lg:min-h-700 down-lg:min-h-400">
+                                <div>
+                                    <img src="assets/cprofile/demos/skincare/images/section/2.jpg" alt="..."
+                                        class="parallax-bg">
+                                </div>
+                                <div
+                                    class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-end justify-content-between px-5 py-6">
+                                    <div>
+                                        <p class="text-uppercase ls-3 small mb-2 op-07">Super Serum</p>
+                                        <h3 class="display-6 fw-lighter mb-0">Just Arrived</h3>
+                                    </div>
+
+                                    <a href="demo-skincare-shop.html"
+                                        class="ps-2 text-white fs-1 bi-arrow-right-circle-fill h-translate-x-n-sm transform-ts"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Section Features
+    ============================================= -->
+
+
+            <!-- Section Products
+    ============================================= -->
+            <div class="section my-0 mt-lg-5">
+                <div class="container mw-sm">
+                    <div class="row gx-5 justify-content-center align-items-center">
+                        <div class="col-sm-auto mb-5">
+                            <div class="circular-text position-relative dark mb-5">
+                                <div id="rotated-text" class="rotating infinite">
+                                    100% Organic &#9670; Palm Oil &#9670; Healthy &#9670; Pure &amp; Fresh &#9670;
+                                </div>
+                                <a class="rotated-center-text fs-4 op-05 text-light m-0 lh-sm"
+                                    href="#">canvas</a>
+                            </div>
+                        </div>
+                        <div class="col mb-5">
+                            <p class="color text-uppercase ls-3 small mb-3">Our Products</p>
+                            <h3 class="display-5 mb-5">Products to make your everyday life easier.</h3>
+                        </div>
+                    </div>
+                </div>
+                <div id="oc-products"
+                    class="owl-carousel owl-carousel-full products-carousel carousel-widget owl-nav-hover-fixed"
+                    data-loop="true" data-pagi="false" data-items-xs="1" data-items-sm="2" data-items-md="3"
+                    data-items-lg="4">
+
+                    @foreach ($produkList as $produk)
+                        <div class="oc-item">
+                            <div class="product">
+                                <div class="product-image mb-2"
+                                    style="width: 100%; max-width: 300px; margin: 0 auto;">
+                                    {{-- Ganti dengan path gambar produk yang sesuai --}}
+                                    <img src="{{ asset('storage/' . $produk->produk_url) }}"
+                                        alt="{{ $produk->produk_name }}"
+                                        style="width: 100%; height: 200px; object-fit: contain; display: block; margin: 0 auto;">
+
+                                    {{-- Contoh badge diskon jika ada --}}
+                                    @if ($produk->diskon > 0)
+                                        <div class="sale-flash badge bg-color rounded-0 fw-normal p-2">
+                                            {{ $produk->diskon }}% Off*
+                                        </div>
+                                    @endif
+
+                                    <div class="bg-overlay">
+                                        <div class="bg-overlay-content align-items-end justify-content-end"
+                                            data-hover-animate="fadeIn">
+                                            {{-- <a href="{{ route('produk.detail', $produk->id) }}"
+                                                class="d-block position-absolute top-0 start-0 w-100 h-100 z-1">
+                                                <span class="visually-hidden">Product Link</span>
+                                            </a> --}}
+                                            <a href="#" class="btn bg-color bg-opacity-75 text-light me-2 z-2">
+                                                <i class="bi-basket"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="product-desc text-center">
+                                    <div class="product-title">
+                                        <h3>
+                                            {{-- <a href="{{ route('produk.detail', $produk->id) }}" class="color">
+                                                {{ $produk->nama_produk }}
+                                            </a> --}}
+                                        </h3>
+                                    </div>
+
+                                    <div class="product-price fw-normal mt-0 mb-2">
+                                        @if ($produk->hargaProduk && $produk->hargaProduk->harga_diskon)
+                                            <del class="op-07">Rp
+                                                {{ number_format($produk->hargaProduk->harga_jual, 0, ',', '.') }}</del>
+                                            <ins>Rp
+                                                {{ number_format($produk->hargaProduk->harga_jual, 0, ',', '.') }}</ins>
+                                        @else
+                                            Rp
+                                            {{ number_format($produk->hargaProduk->harga_jual, 0, ',', '.') }}
+                                        @endif
+                                    </div>
+
+                                    {{-- <a href="{{ route('cart.add', $produk->id) }}"
+                                        class="button button-small px-5 button-border border-color m-0 color h-bg-color h-text-light mt-2">
+                                        Add to cart
+                                    </a> --}}
+                                </div>
+                            </div>
+                        </div>
+                    @endforeach
+
+                </div>
+            </div>
+
+            <!-- Section Ticker
+    ============================================= -->
+            <div class="py-4 bg-color my-3">
+                <div class="ticker-wrap pause-on-hover">
+                    <div class="ticker">
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                        <a href="demo-skincare-single.html" class="ticker-item">Shop Now</a>
+                        <a href="demo-skincare-single.html" class="ticker-item"><span
+                                class="text-white op-01">&#9670;</span></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Section Grid
+    ============================================= -->
+            <div class="section my-0 my-lg-5">
+                <div class="container">
+                    <div class="row g-0 align-items-md-stretch align-items-lg-center">
+                        <div class="col-xl-7 col-md-6 img-overlap">
+                            <img src="{{ asset('storage/' . $produk_url) }}" alt="{{ $produk_name }}" class="h-100"
+                                class="h-100 product-main-image"
+                                style="object-fit: contain; width: 100%; max-height: 400px;">
+                        </div>
+
+                        <div class="col-xl-5 col-md-6 bg-white">
+                            <div class="position-absolute start-0 top-0 w-100 h-100 bg-color bg-opacity-10"></div>
+                            <p class="color op-06 text-uppercase ls-4 small mb-3">Know More About Us</p>
+                            <h2 class="display-6">{{ $produk_name }}</h2>
+                            <p class="color">D{{ $deskripsi_produk }}</p>
+                            <a href="#"
+                                class="button button-small border-color button-border  m-0 color h-bg-color h-text-light">Learn
+                                More</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Section Blog
+    ============================================= -->
+            <div class="section bg-color bg-opacity-10 my-0">
+                <div class="container py-5">
+                    <div class="row justify-content-center mb-4">
+                        <div class="col-md-6 text-center">
+                            <p class="color text-uppercase ls-3 small mb-3">Blog</p>
+                            <h3 class="display-5 mb-5">Our Latest Posts</h3>
+                        </div>
+                    </div>
+
+                    <div class="row gutter-50 text-center">
+                        <div class="col-md-4 entry mb-0">
+                            <div class="entry-image">
+                                <img src="assets/cprofile/demos/skincare/images/blog/1.jpg" alt="...">
+                            </div>
+                            <div class="px-md-4">
+                                <div class="entry-meta mb-3 ls-1">
+                                    <a href="#">Mar 11, 2021</a>
+                                </div>
+                                <div class="entry-title mb-4">
+                                    <h3 class="text-transform-none ls-0 font-body fw-medium fs-5 lh-base"><a
+                                            class="color" href="#">How to Get Glowing Skin and Anti-Aging
+                                            Skin Care for face</a></h3>
+                                </div>
+                                <a href="#"
+                                    class="read-more ls-1 text-uppercase border-bottom border-color small h-color h-op-08">Read
+                                    More</a>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 entry mb-0">
+                            <div class="entry-image">
+                                <img src="assets/cprofile/demos/skincare/images/blog/2.jpg" alt="...">
+                            </div>
+                            <div class="px-md-4">
+                                <div class="entry-meta mb-3 ls-1">
+                                    <a href="#">Mar 11, 2021</a>
+                                </div>
+                                <div class="entry-title mb-4">
+                                    <h3 class="text-transform-none ls-0 font-body fw-medium fs-5 lh-base"><a
+                                            class="color" href="#">My Favorite Beauty Products for your
+                                            skin &amp; Why I Love Them</a></h3>
+                                </div>
+                                <a href="#"
+                                    class="read-more ls-1 text-uppercase border-bottom border-color small h-color h-op-08">Read
+                                    More</a>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 entry mb-0">
+                            <div class="entry-image">
+                                <img src="assets/cprofile/demos/skincare/images/blog/3.jpg" alt="...">
+                            </div>
+                            <div class="px-md-4">
+                                <div class="entry-meta mb-3 ls-1">
+                                    <a href="#">Mar 11, 2021</a>
+                                </div>
+                                <div class="entry-title mb-4">
+                                    <h3 class="text-transform-none ls-0 font-body fw-medium fs-5 lh-base"><a
+                                            class="color" href="#">How to Make &amp; Buy Your High-End
+                                            Beauty Products Last Longer</a></h3>
+                                </div>
+                                <a href="#"
+                                    class="read-more ls-1 text-uppercase border-bottom border-color small h-color h-op-08">Read
+                                    More</a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div><!-- #content end -->
+
+    <!-- Footer
+  ============================================= -->
+</div>

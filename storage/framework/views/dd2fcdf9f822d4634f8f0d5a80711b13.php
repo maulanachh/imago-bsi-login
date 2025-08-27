@@ -1,0 +1,1 @@
+<button wire:click="$dispatch(&#039;openDeleteModal&#039;, JSON.parse(&#039;{\u0022rowId\u0022:1,\u0022jnskmrName\u0022:null}&#039;))" class="btn btn-ghost-danger waves-effect waves-light" id="2"><i class="bx bx-trash-alt"></i> delete</button><?php /**PATH C:\laragon\www\ecommerce\storage\framework\views/148320261d875c35b4954517a5086e9c.blade.php ENDPATH**/ ?>

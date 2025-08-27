@@ -1,0 +1,1 @@
+<button wire:click="$dispatch(&#039;cetak_invoice&#039;, JSON.parse(&#039;{\u0022rowId\u0022:7}&#039;))" class="btn btn-ghost-primary waves-effect waves-light"><i class="bx bx-edit-alt"></i> cetak invoice</button><?php /**PATH /var/www/html/jkhomestay/storage/framework/views/4f880e4834b85d4ab087ebeabb688043.blade.php ENDPATH**/ ?>
